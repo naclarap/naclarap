@@ -5,6 +5,6 @@
 
 🛠️ Tecnologias com as quais já trabalhei em projetos reais:
 
-`Python` `Java` `C` `C++` `Haskell` `SQL` `PostgreSQL` `Flutter` `Qt/C++` `Git` `Flutter` `Figma` 
+`Python` `Java` `C` `C++` `Haskell` `SQL` `PostgreSQL` `Flutter` `Qt/C++` `Git` `Figma` 
 
 📫 Contato: anacpesperanca@gmail.com | [LinkedIn](https://linkedin.com/in/ana-clara-esperança-574831186)
