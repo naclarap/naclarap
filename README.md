@@ -1,6 +1,6 @@
 # Olá! Sou a Ana Clara 
 
-🎓 Estudante de Ciência da Computação na UFOP (7º período), com interesse em Engenharia de Software e Banco de Dados.
+🎓 Estudante de Ciência da Computação na UFOP, com interesse em Engenharia de Software e Banco de Dados.
 
 
 🛠️ Tecnologias com as quais já trabalhei em projetos reais:
